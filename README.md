@@ -18,11 +18,11 @@ email:smaries6016@gmail.com
 ## BDD
 1.Input: Birth date and gender
 
-  Output: Akan name based on day of birth and gender
-2.Input: Invalid date (day ≤ 0 or day > 31)
+  Output: Akan name based on day of birth and gender  
+2.Input: Invalid date (day ≤ 0 or day > 31) 
 
-  Output: Error message requesting valid date
-3.Input: Invalid month (month ≤ 0 or month > 12)
+  Output: Error message requesting valid date    
+3.Input: Invalid month (month ≤ 0 or month > 12)  
 
   Output: Error message requesting valid month
   ## Technologies used   
